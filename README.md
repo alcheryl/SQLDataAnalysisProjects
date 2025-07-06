@@ -1,5 +1,5 @@
 # Music Store Analysis
-This project analyzes a music store's sales data to answer a series of business questions. Using SQL, we extract insights on employees, invoices, customer spending, track popularity, and regional preferences.
+This project analyzes a music store's sales data to answer a series of business questions. Using SQL, I extract insights on employees, invoices, customer spending, track popularity, and regional preferences.
 
 Key goals:
 + Identify top-performing employees and customers
